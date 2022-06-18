@@ -25,8 +25,7 @@
   
 <br />
 
-hi, i'm [Mohsen KHashei](https://kh4sh3i.ir/), Senior security engineer, Penetration Tester, DevOps with 10 years of experience in Mobile, Web, Network, Cloud and System Penetration Tester in PSP. Highly skilled in vulnerability assessment, security risk management, Tuning WAF, Application (Product) Security and Bug Bounty Hunting. Strong background PCI DSS and OWASP auditing.
-
+hi, i'm [Mohsen KHashei](https://kh4sh3i.ir/), Senior security engineer, Penetration Tester, Security Researcher with 10 years of experience in Mobile, Web, Network, Cloud and System Penetration Tester in PSP. Highly skilled in vulnerability assessment, security risk management, Tuning WAF, Application (Product) Security, DevOps, Ethical Hacking and Bug Bounty Hunting. Strong background PCI DSS and OWASP auditing.
 
 
 
