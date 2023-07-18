@@ -1,15 +1,15 @@
 
 <a href="https://www.instagram.com/kh4sh3i/">
-  <img align="left" alt="khashei's Instagram" width="22px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/Instagram.svg" />
+  <img align="left" alt="khashei's Instagram" width="35px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/Instagram.svg" />
 </a>
 <a href="https://discord.gg/6qcgrS8JzS">
-  <img align="left" alt="kh4sh3i's Discord" width="22px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/Discord.svg" />
+  <img align="left" alt="kh4sh3i's Discord" width="35px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/Discord.svg" />
 </a>
 <a href="https://twitter.com/kh4sh3i_">
-  <img align="left" alt="mohsen khashei | Twitter" width="22px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/Twitter.svg" />
+  <img align="left" alt="mohsen khashei | Twitter" width="35px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kh4sh3i/">
-  <img align="left" alt="kh4sh3i's LinkedIN" width="22px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/LinkedIN.svg" />
+  <img align="left" alt="kh4sh3i's LinkedIN" width="35px" src="https://raw.githubusercontent.com/kh4sh3i/kh4sh3i/main/LinkedIN.svg" />
 </a>
 
 <br /><br />
